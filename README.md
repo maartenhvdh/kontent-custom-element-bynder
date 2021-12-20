@@ -103,7 +103,7 @@ Example output:
           "url": "https://datdemo.getbynder.com/transform/fb60f96f-ebf2-4a69-9ed8-8a828ef17283/Music", 
           "width": null }
       }
-    ]}
+    ]} 
 ]
 ```
 
